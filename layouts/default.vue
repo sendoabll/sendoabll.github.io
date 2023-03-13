@@ -1,0 +1,3 @@
+<template>
+  Default template
+</template>
